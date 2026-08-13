@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+helpdesk.db
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
