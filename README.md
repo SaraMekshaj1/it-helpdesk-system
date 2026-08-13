@@ -258,6 +258,7 @@ python -m pytest tests/ -v
 - Role-based access (end user vs. technician vs. admin)
 
 ## Author
+**Sara Mekshaj**
 
 Built as a portfolio project to demonstrate ITSM concepts (incident and
 service request management, impact/urgency prioritization, troubleshooting
